@@ -1,5 +1,5 @@
 const key = '';
-const city_name = 'Fishers';
+const city_name = '';
 
 getWeatherInfo();
 

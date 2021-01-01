@@ -1,4 +1,4 @@
-const key = '6bdda3419c72d9c97d22b436b72fc917';
+const key = '';
 const city_name = 'Fishers';
 
 getWeatherInfo();

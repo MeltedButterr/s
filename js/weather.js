@@ -1,5 +1,5 @@
-const key = '';
-const city_name = '';
+const key = 'AIzaSyCKFEWP0-q8bgjmgtnJm0K8FZZigS2LWlY';
+const city_name = 'Fishers';
 
 getWeatherInfo();
 

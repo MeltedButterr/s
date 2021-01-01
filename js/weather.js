@@ -1,4 +1,4 @@
-const key = 'AIzaSyCKFEWP0-q8bgjmgtnJm0K8FZZigS2LWlY';
+const key = 'api.openweathermap.org/data/2.5/weather?q=Fishers&appid=';
 const city_name = 'Fishers';
 
 getWeatherInfo();

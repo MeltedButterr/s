@@ -2,7 +2,7 @@
 var elem = document.querySelector('.header__greeting');
 
 // Name
-var name = 'Anon';
+var name = 'Jack';
 var elem_name = `<span class="header__greeting__name">${name}</span>.`;
 
 // Greetings

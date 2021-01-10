@@ -9,6 +9,7 @@ function getWeatherInfo() {
 		return response.json();
 	})
 	.then(function (data) {
+		celcius = Math.round(parseFloat(data.main.temp)-273.15);
 		fahrenheit = Math.round(((parseFloat(data.main.temp)-273.15)*1.8)+32);
 		description = data.weather[0].description;
 	})

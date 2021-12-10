@@ -31,5 +31,5 @@ var hour = today.getHours();
 if (hour >= 17 || hour < 6) {
 	darkTheme();
 } else {
-	lightTheme();
+	darkTheme();
 }

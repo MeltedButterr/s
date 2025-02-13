@@ -32,5 +32,5 @@ function getWeatherInfo() {
 }
 
 function drawWeather() {
-	document.getElementById('header__weather__info').innerHTML = `${description}, <span class="header__weather__temp">${celcius}\u00B0C</span>`;
+	document.getElementById('header__weather__info').innerHTML = `${description}, <span class="header__weather__temp">${fahrenheit}\u00B0C</span>`;
 }
